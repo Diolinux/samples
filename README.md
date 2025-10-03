@@ -1,2 +1,2 @@
 # samples
-File Samples for Deskto Test  and Review Porpouses
+File Samples for Desktop Test and Review Purposes
