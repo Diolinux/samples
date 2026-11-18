@@ -1,0 +1,3 @@
+remediation-action-plan-example.ods, biodiversity-gain-plan-form.odt and skills-and-employability-slides.odp contain public sector information licensed under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+They come from GOV.UK: Cabinet Office, "Remediation Action Plan (RAP): example template" (2016); Department for Environment, Food & Rural Affairs, "Biodiversity gain plan: phased development templates" (2024); Ofqual, "Slide pack from Phil Beach at the Skills & Employability Summit" (2017).
+The files are unchanged copies of the OpenDocument attachments on those pages.
